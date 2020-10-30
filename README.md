@@ -39,7 +39,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where
 
 **Channel 4 News, ITN**     
 Current role:
-- `News Editor`: running the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
+- `News Editor`: running the Newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide editorial  
   and legal guidance.
 
